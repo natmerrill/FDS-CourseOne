@@ -2,7 +2,7 @@
 
 ## INSTRUCTORS 
 
-Lawrence Cormack <cormack@utexas.edu> | Franco Pestilli <pestilli@utexas.edu>
+Lawrence Cormack <cormack@utexas.edu> | Franco Pestilli <pestilli@utexas.edu> | Natassia Merrill <natassiamerrill@utexas.edu>
 
 Canvas: https://utexas.instructure.com/courses/1331982 
 
